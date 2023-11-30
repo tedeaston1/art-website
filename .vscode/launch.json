@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-BasicFeaturesBackEndApplication<basic-features-back-end>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.tedapplication.basicfeaturesbackend.BasicFeaturesBackEndApplication",
+            "projectName": "basic-features-back-end",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
